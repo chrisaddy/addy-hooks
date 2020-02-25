@@ -1,0 +1,6 @@
+- id: addy-hooks
+  name: Addy's personal pre-commit hooks
+  entry: hook
+  language: script
+  types: [text]
+  exclude: '^.pre-commit-config.yaml$'
